@@ -24,10 +24,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<br><p align="centre"><b><font color="purple">Contagem de Visitantes</font></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kemellyklaricy}/count.svg" /></p> 
 <br>
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
+
+
