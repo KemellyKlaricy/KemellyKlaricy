@@ -1,4 +1,4 @@
-
+<img width = 100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A253&heigth=120&section=header"/>
 <div align="center">  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kemellyklaricy&show_icons=true&count_private=true&hide_border=true&title_color=A9A253&icon_color=A9A253&text_color=ffff&bg_color=0d1117" alt="Kemelly Klaricy's github stats" /> 
 </div>
