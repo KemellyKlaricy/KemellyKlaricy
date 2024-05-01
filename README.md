@@ -2,8 +2,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kemellyklaricy&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Kemelly Klaricy's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemellyklaricy&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kemellyklaricy&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Kemelly Klaricy's github stats" /> 
 </div>
 
 
@@ -14,22 +13,15 @@
  </div>
  
  ### Principais habilidades:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
 ### Estudando atualmente:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b><font color="purple">Contagem de Visitantes</font></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kemellyklaricy}/count.svg" /></p> 
-<br>
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
-
-
